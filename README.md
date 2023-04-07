@@ -1,8 +1,9 @@
 # 404-not-found
+1st devChallenges project
 
 ## What is it about?
 
-This is a devChallenge's proyect about Responsive Web Desing
+This is a devChallenge's project about Responsive Web Desing
 
 ##What technology have I utilized?
 
