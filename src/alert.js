@@ -1,0 +1,1 @@
+const showAlert = () => alert('This is an example, but it works!');
