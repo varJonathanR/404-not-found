@@ -3,7 +3,7 @@
 
 ## What is it about?
 
-This is a devChallenge's assignment about Responsive Web Desing, in this case am Error page landing
+This is a devChallenge's assignment about Responsive Web Desing, in this case an Error page landing
 
 ## What technology have I utilized?
 
