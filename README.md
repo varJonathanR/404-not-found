@@ -5,7 +5,7 @@
 
 This is a devChallenge's project about Responsive Web Desing
 
-##What technology have I utilized?
+## What technology have I utilized?
 
 HTML & CSS (SCSS)
 
