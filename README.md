@@ -7,7 +7,7 @@ This is a devChallenge's assignment about Responsive Web Desing, in this case an
 
 ## What technology have I utilized?
 
-HTML & CSS (SCSS)
+HTML, CSS (SCSS) & JavaScript for the button alert.
 
 ## How did I do it?
 
