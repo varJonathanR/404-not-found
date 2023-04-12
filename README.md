@@ -1,5 +1,5 @@
 # 404-not-found
-1st devChallenges project
+1st devChallenges project (Responsive Web Developer)
 
 ## What is it about?
 
