@@ -2,7 +2,7 @@
 
 ### Overview
 
-This is my solution for 'My Team Page' project on [devChallenges.io](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY)
+This is my solution for '404 Not Found' project on [devChallenges.io](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY)
 
 ### Tools
 
